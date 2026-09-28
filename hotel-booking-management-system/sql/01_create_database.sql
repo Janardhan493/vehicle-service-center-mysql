@@ -1,3 +1,0 @@
-CREATE DATABASE hotel_booking_management;
-
-USE hotel_booking_management;
